@@ -1,0 +1,1 @@
+# newspack-sports-plugin
