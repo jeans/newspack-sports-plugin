@@ -1,0 +1,31 @@
+newspack-sports-plugin/
+├── newspack-sports-plugin.php
+├── includes/
+│   ├── core/
+│   │   ├── sports-taxonomy.php
+│   │   ├── sports-meta.php
+│   │   ├── custom-post-types.php
+│   │   ├── template-handler.php
+│   │   ├── sports-data-manager.php
+│   │   ├── class-compatibility.php
+│   │   ├── class-ajax-handler.php
+│   │   └── class-setup-wizard.php
+│   └── admin/
+│       └── admin.php
+├── templates/
+│   ├── sport-archive.php
+│   ├── single-sports_match.php
+│   ├── single-sports_team.php
+│   ├── single-sports_person.php
+│   └── parts/
+│       ├── sport-header.php
+│       └── sport-tabs.php
+├── assets/
+│   ├── css/
+│   │   ├── admin.css
+│   │   └── frontend.css
+│   └── js/
+│       ├── admin.js
+│       └── frontend.js
+└── languages/
+    └── newspack-sports.pot
